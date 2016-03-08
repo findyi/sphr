@@ -1,0 +1,6 @@
+.idea/
+ngapp/.idea/
+workflow/target/
+*.DS_Store
+*.pyc
+*.class
